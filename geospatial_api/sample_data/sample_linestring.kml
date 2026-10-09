@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Sample LineString Document</name>
+    <Placemark>
+      <name>Test Road Path</name>
+      <description>A test linear feature</description>
+      <LineString>
+        <coordinates>
+          -73.981886,40.768094,0
+          -73.973303,40.764324,0
+          -73.960000,40.770000,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

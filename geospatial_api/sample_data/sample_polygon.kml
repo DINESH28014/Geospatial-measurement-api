@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Sample Polygon Document</name>
+    <Placemark>
+      <name>Test Field Polygon</name>
+      <description>A test agricultural parcel</description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -73.981886,40.768094,0
+              -73.958197,40.800623,0
+              -73.949614,40.796853,0
+              -73.973303,40.764324,0
+              -73.981886,40.768094,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

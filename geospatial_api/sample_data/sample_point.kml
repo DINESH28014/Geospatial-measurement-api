@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Sample Point Document</name>
+    <Placemark>
+      <name>Test Survey Station</name>
+      <description>A point measurement location</description>
+      <Point>
+        <coordinates>-73.981886,40.768094,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
